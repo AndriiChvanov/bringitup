@@ -1,0 +1,13 @@
+
+.gitignore
+.idea/.gitignore
+.idea/misc.xml
+.idea/modules.xml
+.idea/test3.iml
+.idea/vcs.xml
+dist/
+gulpfile.js
+node_modules/
+package-lock.json
+package.json
+src/
